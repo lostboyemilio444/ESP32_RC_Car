@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../RFID"
+		},
+		{
+			"name": "LCD i2c DISPLAY",
+			"path": "../../LCD i2c DISPLAY"
+		},
+		{
+			"name": "First bluetoth connection",
+			"path": "../../First bluetoth connection"
+		},
+		{
+			"name": "verngesteuertes Auto",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
